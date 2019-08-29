@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "react-native-picker": "^4.3.7"
+  }
+}
